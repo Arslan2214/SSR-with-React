@@ -49,7 +49,7 @@ Replace the rendering method in `index.js` file:
    npm install @babel/register @babel/preset-env @babel/preset-react ignore-styles
    ```
 3. **Create Server Folder:**\
-Create new folder called **server**. Inside it, create a file named `server.js` & paste following code.
+Create new file as `server/server.js` & paste following code.
 
     ```server/server.js
     // Copy following
